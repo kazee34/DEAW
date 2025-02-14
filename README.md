@@ -7,7 +7,7 @@ Aprobar la tarea 2 del tema 6
 # Módulo
 Despliegue de Aplicaciones Web
 
-# Contribuidores
+# Compañeros
 | NOMBRE      | GITHUB                |
 |------------|----------------------|
 | Julieta | https://github.com/dam022023/DEAW |
